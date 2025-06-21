@@ -1,0 +1,7 @@
+name: Multi-Cloud Infrastructure CI/CD
+
+on:
+  push:
+    branches: [ main, develop ]
+  pull_request:
+    branches
