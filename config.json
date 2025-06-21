@@ -1,0 +1,11 @@
+{
+  "aws": {
+    "region": "us-west-2"
+  },
+  "azure": {
+    "subscription_id": "your-subscription-id"
+  },
+  "gcp": {
+    "project_id": "your-project-id"
+  }
+}
